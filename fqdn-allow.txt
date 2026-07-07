@@ -1,3 +1,4 @@
+*.timdurstock.com/  #NOTES FOR TRACKING PURPOSES
 google.com/
 *.cnn.com/
 *.yourmomsbox.com:
